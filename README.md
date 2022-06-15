@@ -1,4 +1,6 @@
-[Scripting.odt](https://github.com/ryanhabis/fast_food_ordering_system/files/8909392/Scripting.odt)
+[Scripting project chart Excel](https://github.com/ryanhabis/fast_food_ordering_system/files/8909404/Scripting.project.chart.Excel.ods)
+
+[Word document explaining the project](https://github.com/ryanhabis/fast_food_ordering_system/files/8909405/word.document.odt)
 
 # fast_food_ordering_system
 In this project the task was to build a script that to incorporate as many features as possible on a topic the student as picked in this script it mimics a fast-food ordering system.
